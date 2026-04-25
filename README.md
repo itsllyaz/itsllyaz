@@ -1,7 +1,9 @@
 
-<h1 align="center">Hi 👋, I'm Eliyas</h1>
-<h3 align="center">A passionate fullstack developer from Ethiopia</h3>
-
+<h1>
+Hey 👋, I'm eliyas</h1>
+<!-- Your comment here 
+<h3>A passionate fullstack developer from Ethiopia</h3>
+-->
 
 
 
@@ -12,16 +14,16 @@
 
 
 ## Language i use 
-  Python, Javascript, Go
+  TypeScript/JavaScript, Golang, Python
 
 
 
 ## Frameworks & Technologies i've worked with 
-Reactjs, Svelte, Flask, X API(Twitter API) & Telegram API, Bootstrap, TailwindCSS
+Reactjs, Nextjs, Vue.js, Express, Go/Fiber, TailwindCSS, 
 
 ### Tools
 
-Zed, Github, Yarn, Git, NPM, Pypi, Heroku, CI, Docker, Bash
+neovim, Github, Yarn, Git, NPM, Pypi, Heroku, CI, Docker, Bash
 
 #
 - 💬 Ask me about **fullstack**
