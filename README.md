@@ -25,11 +25,6 @@ Reactjs, Nextjs, Vue.js, Express, Go/Fiber, TailwindCSS,
 
 neovim, Github, Yarn, Git, NPM, Pypi, Heroku, CI, Docker, Bash
 
-#
-- 💬 Ask me about **fullstack**
-
-- 📫 How to reach me **eliyasinbox1@gmail.com**
-
 
 
 
