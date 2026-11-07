@@ -1,18 +1,24 @@
 
-<h1>
-Hey 👋, I'm eliyas</h1>
+### Hey 👋, I'm eliyas</h1>
+
+- I work with Go and Typescript primarily 
+- I am more into backend and devops. 
+- I am learning Rust and Zig at the moment 
+- You can follow me on X [@itsllyaz_](https://x.com/itsllyaz_)
+- You can find detail about me at my portfolio [llyaz.me](https://llyaz.me)
 <!-- Your comment here 
 <h3>A passionate fullstack developer from Ethiopia</h3>
 -->
 
 
-
+<!--
 [![wakatime](https://wakatime.com/badge/user/4963d682-0887-4341-9018-7481f8db2350.svg)](https://wakatime.com/@4963d682-0887-4341-9018-7481f8db2350) 
 ![](https://komarev.com/ghpvc/?username=llyas36&color=green)
 
+-->
 
 
-
+<!--
 ## Language i use 
   TypeScript/JavaScript, Golang, Python
 
@@ -25,6 +31,4 @@ Reactjs, Nextjs, Vue.js, Express, Go/Fiber, TailwindCSS,
 
 neovim, Github, Yarn, Git, NPM, Pypi, Heroku, CI, Docker, Bash
 
-
-
-
+-->
